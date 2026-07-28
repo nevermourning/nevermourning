@@ -31,7 +31,6 @@ Outside of coding, you'll usually find me writing, reading, or hyper fixating on
 # ✦ Contact
 
 Discord - @500172507
-
 Email - nevermourning@protonmail.com
 ---
 
