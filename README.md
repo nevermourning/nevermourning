@@ -4,7 +4,6 @@
 
 ### *Front-End Developer • Backend Programmer • Cool Person.*
 
-*"Building cute websites, aesthetic interfaces, Discord bots, and whatever chaotic project I'm hyperfixated on this week."*
 
 </div>
 
