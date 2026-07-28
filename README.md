@@ -35,7 +35,7 @@ Email - nevermourning@protonmail.com
 
 <div align="center">
 
-<img src="https://i.pinimg.com/control1/1200x/7f/41/3c/7f413c49d1b5859009ecf299bbcc34a2.jpg" width="100%">
+<img src="[https://i.pinimg.com/control1/1200x/7f/41/3c/7f413c49d1b5859009ecf299bbcc34a2.jpg](https://i.pinimg.com/736x/94/ae/ee/94aeeeb1f1dffdfb3c94258d9355fd0d.jpg)" width="100%">
 
 ### Thanks for stopping by.
 
