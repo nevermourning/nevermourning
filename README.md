@@ -33,56 +33,6 @@ Email - nevermourning@protonmail.com
 
 ---
 
-# ⚫ Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,sqlite,git,github,vscode&theme=dark"/>
-</p>
-
----
-
-# 🌑 Current Projects
-
-🖤 Dolly's Factory Discord Tracker
-
-🖤 Personal Portfolio
-
-🖤 Neocities Archive
-
-🖤 Discord Bots
-
-🖤 Random Hyperfixation #247
-
----
-
-# ☽ Currently Learning
-
-* Better backend architecture
-* UI/UX design
-* SQLite
-* API development
-* Building larger Discord bots
-
----
-
-# ♡ A Few Things I Like
-
-```
-☾ Cats
-☾ Black coffee
-☾ Rainy evenings
-☾ Minimalist websites
-
-```
-
----
-
-# ✦ Quote
-
-> *"The best projects usually begin with 'this would be funny.'"*
-
----
-
 <div align="center">
 
 <img src="https://i.pinimg.com/control1/1200x/7f/41/3c/7f413c49d1b5859009ecf299bbcc34a2.jpg" width="100%">
