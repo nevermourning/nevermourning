@@ -1,4 +1,5 @@
 <div align="center">
+
 # Nevermore 🌙
 
 ### *Front-End Developer • Backend Programmer • Cool Person.*
@@ -26,6 +27,10 @@ My favourite part of programming is making things feel **fun**
 
 Outside of coding, you'll usually find me writing, reading, or hyper fixating on whatever creative project has stolen my attention this week.
 
+---
+# ✦ Contact
+Discord - @500172507
+Email - nevermourning@protonmail.com
 ---
 
 # ⚫ Technologies
