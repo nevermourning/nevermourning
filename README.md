@@ -1,106 +1,106 @@
-# <div align="center">
+<div align="center">
+
+<img src="https://i.pinimg.com/control1/736x/19/37/30/193730fbe952c2f0800d0338cc3b6506.jpg" width="100%">
 
 # Nevermore 🌙
 
-### *Front-End Developer • Backend Programmer • Professional Chaos Enthusiast*
+### *Front-End Developer • Backend Programmer • Cool Person.*
 
-<img src="[https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200](https://i.pinimg.com/control1/736x/35/4e/09/354e0922b5de7819056b4ad1d0653358.jpg]" width="100%"/>
-
-*"Building pretty things that occasionally work the first time."*
+*"Building cute websites, aesthetic interfaces, Discord bots, and whatever chaotic project I'm hyperfixated on this week."*
 
 </div>
 
 ---
 
-## ☾ About Me
+# 🌜 About Me
 
-```text
-Name      :: Nevermore
-Pronouns  :: she / her
-Location  :: Canada
-Focus     :: Web Development • Discord Bots • UI Design
-Currently :: Making things that probably didn't need to exist
-Aesthetic :: Black • White • Minimalism
+```txt
+⌁ Name        :: Nevermore
+⌁ Pronouns    :: She / Her
+⌁ Languages   :: Python • HTML • CSS • JavaScript
+⌁ Interests   :: UI Design • Discord Bots • Web Development
+⌁ Aesthetic   :: Black & White • Minimalism • Gothic
+⌁ Status      :: Probably rewriting CSS for the fourth time.
 ```
 
-I enjoy building aesthetic websites, interactive Discord bots, and small projects that spiral into week-long hyperfixations. I like clean interfaces, monochrome design, weird internet culture, and making software that's both useful and fun.
+I enjoy creating websites that feel personal, building Discord bots with personality, and turning random ideas into finished projects.
 
-When I'm not coding, you'll probably find me writing fanfiction, redesigning a website for the fifth time, or obsessing over some completely random project.
+My favorite part of programming is making things feel **alive**—whether that's through smooth interfaces, cute interactions, or little details that make people smile.
+
+Outside of coding, you'll usually find me writing, reading, or hyperfixating on whatever creative project has stolen my attention this week.
 
 ---
 
-# ◐ Tech Stack
+# ⚫ Technologies
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
-
-### Frameworks & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,html,css,js,sqlite,git,github,vscode&theme=dark"/>
 </p>
 
 ---
 
-# ☽ Current Projects
+# 🌑 Current Projects
 
-◦ Dolly's Factory Discord Tracker
+🖤 Dolly's Factory Discord Tracker
 
-◦ Personal Portfolio Website
+🖤 Personal Portfolio
 
-◦ Neocities Archive
+🖤 Neocities Archive
 
-◦ Discord Bots
+🖤 Discord Bots
 
-◦ Whatever my latest hyperfixation becomes
+🖤 Random Hyperfixation #247
 
 ---
 
-# ❍ GitHub Stats
+# ☾ GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d9d9d9&icon_color=ffffff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=e5e5e5&icon_color=ffffff"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d9d9d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=e5e5e5"/>
 
 </p>
 
 ---
 
-# ☁ Currently Learning
+# ☽ Currently Learning
+
+* Better backend architecture
+* UI/UX design
+* SQLite
+* API development
+* Building larger Discord bots
+
+---
+
+# ♡ A Few Things I Like
 
 ```
-Python
-SQLite
-Discord.py
-JavaScript
-UI/UX Design
+☾ Cats
+☾ Black coffee
+☾ Rainy evenings
+☾ Fanfiction
+☾ Minimalist websites
+☾ The moon
+☾ Tiny details nobody notices
 ```
 
 ---
 
-# ♡ Philosophy
+# ✦ Quote
 
-> *"Perfection is overrated. Ship the project, learn something, then build it again prettier."*
-
----
-
-# 🌑 Find Me
-
-GitHub → https://github.com/nevermourning
-
-Discord → @500172507
+> *"The best projects usually begin with 'this would be funny.'"*
 
 ---
 
 <div align="center">
 
-<img src="[https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=1200](https://i.pinimg.com/control1/1200x/ec/54/11/ec541173e60a891080f1dab30247a28e.jpg)" width="100%"/>
+<img src="https://i.pinimg.com/control1/1200x/0e/cb/0f/0ecb0f48a98a57f57fdd35a5a0dceb88.jpg" width="100%">
 
-### *Thanks for stopping by.*
+### Thanks for stopping by.
+
+*See you in another repository.* 🌙
 
 </div>
