@@ -4,7 +4,7 @@
 
 ### *Front-End Developer • Backend Programmer • Professional Chaos Enthusiast*
 
-<img src="[https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200](https://i.pinimg.com/control1/736x/35/4e/09/354e0922b5de7819056b4ad1d0653358.jpg)" width="100%"/>
+<img src="[https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200](https://i.pinimg.com/control1/736x/35/4e/09/354e0922b5de7819056b4ad1d0653358.jpg]" width="100%"/>
 
 *"Building pretty things that occasionally work the first time."*
 
