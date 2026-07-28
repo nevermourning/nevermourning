@@ -1,15 +1,15 @@
 <div align="center">
 
-# Nevermore 🌙
+# Nevermore 🐱
 
-### *Front-End Developer • Backend Programmer • Cool Person.*
+### *Front-End Developer • Programmer • Cool Person.*
 
 
 </div>
 
 ---
 
-# 🌜 About Me
+# 🐱 About Me
 
 ```txt
 ⌁ Name        :: Nevermore
@@ -35,11 +35,9 @@ Email - nevermourning@protonmail.com
 
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/94/ae/ee/94aeeeb1f1dffdfb3c94258d9355fd0d.jpg" width="100%">
-
 ### Thanks for stopping by.
 
-*See you in another repository.* 🌙
+*See you in another repository.* 🐱
 https://ko-fi.com/nevermourning
 
 </div>
