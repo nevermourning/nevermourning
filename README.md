@@ -39,36 +39,9 @@ When I'm not coding, you'll usually find me writing, reading, or hyperfixating o
 
 ---
 
-# ✨ Featured Project
-
-## 🏆 Delver Boards
-
-A full-stack leaderboard platform built for the Roblox game **Delver**.
-
-Delver Boards combines a custom **Python Discord bot**, **Google Sheets API**, and a responsive website to automatically track and display player personal bests in real time.
-
-I built the entire project from the ground up—from the Discord bot and data pipeline to the API integration and front-end interface.
-
-### Features
-
-- 🏆 Live community leaderboard
-- 🤖 Discord bot built with `discord.py`
-- 📊 Automatic personal best tracking
-- 🔄 Real-time updates
-- 🔍 Searchable player rankings
-- 📱 Responsive web interface
-
-**Tech Stack**
-
-`Python` • `discord.py` • `Google Sheets API` • `HTML` • `CSS` • `JavaScript`
-
-> 🔗 **Repository:** *(https://github.com/nevermourning/DelverBoards)*
-
----
-
 # 📫 Contact
 
-- 📧 **Email:** nevermourning@protonmail.com
+- 📧 **Email:** nevermourning.dev@gmail.com
 
 ---
 
