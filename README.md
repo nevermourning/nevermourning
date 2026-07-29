@@ -62,7 +62,7 @@ I built the entire project from the ground up—from the Discord bot and data pi
 
 `Python` • `discord.py` • `Google Sheets API` • `HTML` • `CSS` • `JavaScript`
 
-> 🔗 **Repository:** *(Add your Delver Boards repository link here.)*
+> 🔗 **Repository:** *(https://github.com/nevermourning/DelverBoards)*
 
 ---
 
